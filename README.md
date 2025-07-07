@@ -74,3 +74,5 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/misc/file.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/misc/divide.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update:  Monday 07 July 2025 Redirect loops
